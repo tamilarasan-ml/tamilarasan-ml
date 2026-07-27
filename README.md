@@ -10,7 +10,8 @@
 
 I'm Tamilarasan Valarmathinathan
 
-## 🚀 🚀 AI Product Builder | Agentic AI Engineer | Product Management | Agile Leader
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=AI+Product+Builder;Agentic+AI+Engineer;LLMs+%E2%80%A2+RAG+%E2%80%A2+FastAPI;Open+Source+Contributor)](https://git.io/typing-svg)
+
 
 I build intelligent AI applications that solve real-world problems by combining **Product Thinking**, **Large Language Models (LLMs)**, **Agentic AI**, and **Automation**.
 
