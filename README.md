@@ -10,7 +10,7 @@
 
 I'm Tamilarasan Valarmathinathan
 
-## 🚀 AI Product Builder | AI Agents Generator | Product Management | Agile leadership|
+## 🚀 🚀 AI Product Builder | Agentic AI Engineer | Product Management | Agile Leader
 
 I build intelligent AI applications that solve real-world problems by combining **Product Thinking**, **Large Language Models (LLMs)**, **Agentic AI**, and **Automation**.
 
