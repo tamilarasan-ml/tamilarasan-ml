@@ -1,4 +1,6 @@
-<img src="./assets/banner.png" width="100%">
+<p align="center">
+  <img src="./assets/banner.png" alt="Tamilarasan AI Banner" width="100%">
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
