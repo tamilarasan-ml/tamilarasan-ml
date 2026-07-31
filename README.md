@@ -12,12 +12,11 @@
 
 <p align="center">
 
-![Engineering](https://img.shields.io/badge/Engineering-0052CC?style=for-the-badge)
+
 ![Scrum Master](https://img.shields.io/badge/Scrum%20Master-6A1B9A?style=for-the-badge)
 ![Scaled Agile](https://img.shields.io/badge/Scaled%20Agile-SAFe-success?style=for-the-badge)
 ![Project Management](https://img.shields.io/badge/Project%20Management-FF6F00?style=for-the-badge)
-![Release Management](https://img.shields.io/badge/Release%20Management-00897B?style=for-the-badge)
-![Product Strategy](https://img.shields.io/badge/Product%20Strategy-3949AB?style=for-the-badge)
+
 
 </p>  
 
@@ -32,16 +31,6 @@
 ![GitHub](https://img.shields.io/badge/Open_Source-Projects-black?style=for-the-badge&logo=github)
   
 </p>  
-
-<p align="center">
-
-![PSM I](https://img.shields.io/badge/PSM%20I-Certified-0A66C2?style=for-the-badge)
-![PSM II](https://img.shields.io/badge/PSM%20II-Certified-1565C0?style=for-the-badge)
-![SAFe SASM](https://img.shields.io/badge/SAFe%20SASM-Certified-43A047?style=for-the-badge)
-![SAFe POPM](https://img.shields.io/badge/SAFe%20POPM-Certified-7CB342?style=for-the-badge)
-![PMP](https://img.shields.io/badge/PMP-Pursuing-F57C00?style=for-the-badge)
-
-</p>
 
 
 # 👋 Welcome to My GitHub
