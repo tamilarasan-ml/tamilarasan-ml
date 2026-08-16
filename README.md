@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Tamilarasan | AI Product Manager | Technical Product Manager | GenAI" width="100%" />
+  <img src="./assets/banner.png" alt="Tamilarasan | AI Product Manager | Technical Product Manager" width="100%" />
 </p>
 
 <p align="center">
@@ -67,7 +67,7 @@ I am particularly interested in AI products involving:
 
 Designed as an AI Product Manager portfolio project to explore how AI can support payment operations while keeping critical business decisions governed.
 
-### Product capabilities
+### Product Capabilities
 
 - ISO 20022 `pain.001` validation failure classification
 - AI-assisted exception analysis
@@ -89,7 +89,7 @@ Designed as an AI Product Manager portfolio project to explore how AI can suppor
 
 DOCMIND explores how enterprise documents can be transformed into a grounded conversational knowledge experience.
 
-### Product capabilities
+### Product Capabilities
 
 - PDF document processing
 - Text extraction and chunking
@@ -135,7 +135,7 @@ UdhaviAI explores the architecture required to move beyond traditional chatbots 
 
 The project explores the product and technical challenges involved in applying AI to candidate assessment and feedback workflows.
 
-### Product focus
+### Product Focus
 
 - AI-powered interview workflows
 - Response evaluation
@@ -152,7 +152,7 @@ The project explores the product and technical challenges involved in applying A
 
 # 🧠 AI Product Management Capabilities
 
-### Product Strategy
+## Product Strategy
 
 - Product Vision
 - Product Discovery
@@ -163,7 +163,7 @@ The project explores the product and technical challenges involved in applying A
 - Customer-Centric Product Development
 - Business Value Definition
 
-### AI Product Development
+## AI Product Development
 
 - AI Product Strategy
 - GenAI Use-Case Discovery
@@ -175,7 +175,7 @@ The project explores the product and technical challenges involved in applying A
 - Human-in-the-Loop Workflows
 - AI Governance
 
-### Enterprise Delivery
+## Enterprise Delivery
 
 - Agile Product Delivery
 - Scrum
@@ -219,28 +219,33 @@ The project explores the product and technical challenges involved in applying A
 
 # 🛠️ Technology Toolkit
 
-### AI & Intelligent Systems
+## AI & Intelligent Systems
 
-`Generative AI` `LLMs` `AI Agents` `RAG` `Prompt Engineering`  
+`Generative AI` `LLMs` `AI Agents` `RAG` `Prompt Engineering`
+
 `Azure AI Foundry` `Azure AI Search` `OpenAI` `LangGraph` `MCP`
 
-### Development
+## Development
 
-`Python` `TypeScript` `JavaScript` `SQL`  
+`Python` `TypeScript` `JavaScript` `SQL`
+
 `FastAPI` `Node.js` `React` `REST APIs`
 
-### Cloud & DevOps
+## Cloud & DevOps
 
 `AWS` `Azure` `Git` `GitHub` `Jenkins` `CI/CD`
 
-### Product & Delivery
+## Product & Delivery
 
-`Jira` `Confluence` `Azure DevOps` `Miro`  
+`Jira` `Confluence` `Azure DevOps` `Miro`
+
 `Agile` `Scrum` `SAFe` `Product Management`
 
 ---
 
 # 📈 Professional Journey
+
+My career has evolved across engineering, quality, Agile delivery, project leadership and product management, with a current focus on AI Product Management.
 
 ```text
 Software Testing
@@ -256,17 +261,21 @@ Project / Delivery Leadership
 Product Management
       ↓
 AI Product Management
+```
 
-# 🏆 Certifications
+---
+
+# 🏅 Certifications
 
 | Certification | Status |
-|--------------|--------|
+|---|---|
 | 🥇 Professional Scrum Master I (PSM I) | ✅ Certified |
 | 🥇 Professional Scrum Master II (PSM II) | ✅ Certified |
 | 🥇 SAFe Advanced Scrum Master | ✅ Certified |
-| 🎯 SAFe Product Owner / Product Manager | 📖 pursuing |
+| 🎯 SAFe Product Owner / Product Manager | 📖 Pursuing|
 
 
+---
 
 # 📊 GitHub Analytics
 
@@ -279,28 +288,75 @@ AI Product Management
   <img src="https://streak-stats.demolab.com?user=tamilarasan-ml&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
 
-# 🎯 My Vision
+# 🎯 Current Focus
 
-I'm committed to building intelligent AI-powered products that combine enterprise delivery experience with modern AI technologies.
+My current focus is on building and exploring **AI-powered products that combine product strategy, enterprise technology and modern AI capabilities.**
 
-### Current Focus
+### Areas of Focus
 
-- 🤖 AI Generalist
+- 🤖 AI Product Management
 - 🧠 Agentic AI
 - 🔗 Model Context Protocol (MCP)
 - 📚 Retrieval-Augmented Generation (RAG)
+- 🧪 LLM Evaluation
 - ⚡ AI Product Development
-- 🚀 Open Source Contributions
+- 💳 AI for Banking & Payments
+- 🔎 Enterprise AI Search
+- 🚀 Open Source AI Projects
 
-### Long-Term Goals
+---
 
-- Build production-ready AI applications
-- Contribute to the AI open-source community
-- Publish technical articles and learning resources
-- Mentor aspiring AI professionals
-- Create impactful AI products that solve real business challenges
+# ✍️ Learning in Public
 
+I believe AI Product Management is best learned by **building, testing, evaluating and sharing the lessons learned**.
+
+I use GitHub to document:
+
+- AI product experiments
+- Architecture decisions
+- Technical challenges
+- Product decisions
+- Evaluation approaches
+- Lessons learned
+- Practical AI implementations
+
+I also share real project problems and solutions through technical articles and LinkedIn posts.
+
+---
+
+# 🎯 My Product Philosophy
+
+> **Build AI products where technology, customer value and business outcomes meet.**
+
+I believe successful AI products require more than a powerful model.
+
+They require:
+
+**Clear problem definition → Valuable use case → Thoughtful product design → Reliable AI → Evaluation → Governance → Measurable outcomes**
+
+I believe an effective AI Product Manager needs to bridge the gap between **business problems, customer needs, AI capabilities, engineering constraints and measurable outcomes**.
+
+---
+
+# 🌟 Vision
+
+My vision is to build and lead **AI-powered products that solve meaningful enterprise problems**, combining product strategy, domain expertise, technology and responsible AI.
+
+I aim to create products that are:
+
+- 🎯 Customer-centric
+- 📈 Business-value driven
+- 🧠 AI-enabled
+- ⚙️ Technically scalable
+- 📊 Measurable
+- 🔐 Responsible
+- 🚀 Practical to adopt
+
+My long-term goal is to contribute to the evolution of **enterprise AI products that augment human decision-making, automate complex workflows and create measurable business value**.
+
+---
 
 # 📫 Let's Connect
 
@@ -321,19 +377,24 @@ I'm committed to building intelligent AI-powered products that combine enterpris
 </p>
 
 ---
+
+# 💡 My Mission
+
+To bridge **enterprise delivery excellence with modern Artificial Intelligence** by building practical, scalable and impactful digital products that create lasting value for people and organizations.
+
+My mission is to combine:
+
+**Product Strategy + Domain Expertise + Enterprise Technology + Agile Leadership + Artificial Intelligence**
+
+to transform real business problems into **intelligent, measurable and scalable digital products**.
+
 ---
 
-## 💡 My Mission
+⭐ **Thanks for visiting my GitHub profile!**
 
-To bridge enterprise delivery excellence with modern Artificial Intelligence by building practical, scalable, and impactful digital solutions that create lasting value for people and organizations.
+If my work resonates with you, I'd be happy to connect, collaborate and continue learning together.
 
----
-
-⭐ Thanks for visiting my GitHub profile!
-
-If my work resonates with you, I'd be happy to connect, collaborate, and continue learning together.
-
-
+**Build → Learn → Evaluate → Improve → Share**
 
 
 
